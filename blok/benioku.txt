@@ -1,0 +1,7 @@
+Bu oyun hypercasual türünde bir oyundur.Oyun amacımız karşımızdaki tüm blokları kırmaktır.Oyun içi görüntüler "game pictures " adlı dosyada mevcuttur.Oyunnun kendisi output dosyasında mevcuttur.
+
+
+
+
+Oyun içi kontroller
+a/d/yön tuşları:blok hareketi
